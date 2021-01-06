@@ -1,6 +1,8 @@
 # :memo: Recipes Website
-Recipes website made following the tutorial: <a href="https://www.youtube.com/watch?v=bxmDnn7lrnk" target="_blank">The Net Ninja - Tailwind CSS Tutorial</a>
+Simple recipes website made following the tutorial: <a href="https://www.youtube.com/watch?v=bxmDnn7lrnk" target="_blank">The Net Ninja - Tailwind CSS Tutorial</a>
  
+:arrow_right: Try it: <a href="https://jesspsilva.github.io/recipes-tailwind/" target="_blank">Website</a>
+
 ## :computer: Technologies
 
 ![html](https://img.shields.io/badge/-HTML-orange?logo=HTML5&logoColor=white&style=for-the-badge)
